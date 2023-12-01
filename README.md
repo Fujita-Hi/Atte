@@ -1,6 +1,7 @@
 # Atte
  勤怠管理システム
  -勤怠情報を打刻しそれを確認することができるシステム
+<img src="img/home.png" alt="ホーム画面">
 
 ## 作成した目的
  課題作成
@@ -15,8 +16,8 @@
 ・ログイン機能（メール認証有）
 
 ## テーブル設計
-
+<img src="img/database.drawio.png" alt="ホーム画面">
 ## ER図
-
+<img src="img/ER.drawio.png" alt="ホーム画面">
 ## 環境構築
 npmの実装が必要　実行コマンド：npm　run dev
